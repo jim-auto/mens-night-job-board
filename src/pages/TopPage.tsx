@@ -27,6 +27,11 @@ const categories: Array<{ type: JobType; title: string; copy: string }> = [
     title: 'スカウト',
     copy: '案内力や提案力を活かしやすく、歩合を含む求人も見つけやすいです。',
   },
+  {
+    type: 'ホスト',
+    title: 'ホスト',
+    copy: '接客・会話力を活かす職種。未経験からスタートできる研修体制のある店舗も多いです。',
+  },
 ]
 
 const areas = ['東京', '大阪', '名古屋', '福岡']
