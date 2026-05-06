@@ -1,0 +1,91 @@
+.page {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.hero,
+.resultsSection {
+  border: 1px solid rgba(42, 42, 64, 0.9);
+  border-radius: calc(var(--border-radius) * 2);
+  background: rgba(18, 18, 26, 0.94);
+  box-shadow: var(--shadow-card);
+}
+
+.hero {
+  padding: 1.6rem 1.25rem;
+}
+
+.kicker {
+  color: var(--accent-cyan);
+  letter-spacing: 0.14em;
+  font-size: 0.8rem;
+}
+
+.title {
+  margin-top: 0.65rem;
+  font-size: clamp(2rem, 8vw, 3.4rem);
+}
+
+.copy {
+  margin-top: 0.9rem;
+  max-width: 48rem;
+  color: var(--text-secondary);
+  line-height: 1.8;
+}
+
+.resultsSection {
+  padding: 1.25rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.summary {
+  display: grid;
+  gap: 0.3rem;
+}
+
+.resultCount {
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.helper {
+  color: var(--text-secondary);
+}
+
+.grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.emptyState {
+  padding: 1.4rem;
+  border: 1px dashed rgba(255, 0, 110, 0.35);
+  border-radius: calc(var(--border-radius) * 1.5);
+  background: rgba(255, 0, 110, 0.08);
+}
+
+.emptyState h2 {
+  font-size: 1.2rem;
+}
+
+.emptyState p {
+  margin-top: 0.5rem;
+  color: var(--text-secondary);
+  line-height: 1.8;
+}
+
+@media (min-width: 768px) {
+  .page {
+    gap: 1.75rem;
+  }
+
+  .hero,
+  .resultsSection {
+    padding: 1.6rem;
+  }
+
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

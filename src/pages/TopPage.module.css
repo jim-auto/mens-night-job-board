@@ -1,0 +1,201 @@
+.page {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.hero,
+.section,
+.cta {
+  border: 1px solid rgba(42, 42, 64, 0.9);
+  border-radius: calc(var(--border-radius) * 2);
+  background: rgba(18, 18, 26, 0.92);
+  box-shadow: var(--shadow-card);
+}
+
+.hero {
+  padding: 2rem 1.25rem;
+  background:
+    radial-gradient(circle at top left, rgba(183, 0, 255, 0.16), transparent 40%),
+    radial-gradient(circle at top right, rgba(0, 245, 255, 0.14), transparent 35%),
+    rgba(18, 18, 26, 0.96);
+}
+
+.kicker {
+  color: var(--accent-pink);
+  letter-spacing: 0.18em;
+  font-size: 0.78rem;
+}
+
+.title {
+  margin-top: 0.75rem;
+  font-size: clamp(2.4rem, 9vw, 4.8rem);
+  line-height: 1;
+  color: var(--text-primary);
+  text-shadow: var(--neon-glow-purple);
+}
+
+.copy {
+  margin-top: 1rem;
+  max-width: 52rem;
+  color: var(--text-secondary);
+  line-height: 1.85;
+}
+
+.actions {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+}
+
+.primaryAction,
+.secondaryAction,
+.ctaButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  padding: 0.85rem 1.2rem;
+  border-radius: 999px;
+}
+
+.primaryAction,
+.ctaButton {
+  border: 1px solid rgba(0, 245, 255, 0.25);
+  background: linear-gradient(90deg, rgba(0, 245, 255, 0.2), rgba(183, 0, 255, 0.2));
+  box-shadow: var(--neon-glow-cyan);
+}
+
+.secondaryAction {
+  border: 1px solid rgba(42, 42, 64, 1);
+  background: rgba(26, 26, 38, 0.92);
+  color: var(--text-secondary);
+}
+
+.section {
+  padding: 1.35rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.sectionHeader {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.sectionHeader h2 {
+  font-size: 1.4rem;
+}
+
+.sectionHeader p {
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
+.categoryGrid,
+.featuredGrid {
+  display: grid;
+  gap: 1rem;
+}
+
+.categoryCard,
+.areaLink,
+.trendItem {
+  border: 1px solid rgba(42, 42, 64, 0.95);
+  border-radius: calc(var(--border-radius) * 1.5);
+  background: rgba(26, 26, 38, 0.95);
+}
+
+.categoryCard {
+  padding: 1rem;
+  transition:
+    transform var(--transition-base),
+    border-color var(--transition-base);
+}
+
+.categoryCard:hover {
+  transform: translateY(-2px);
+  border-color: rgba(0, 245, 255, 0.28);
+}
+
+.categoryLabel {
+  display: block;
+  margin-bottom: 0.55rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--accent-cyan);
+}
+
+.categoryCard p {
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
+.areaLinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.areaLink {
+  min-width: 88px;
+  padding: 0.9rem 1rem;
+  text-align: center;
+  color: var(--text-primary);
+}
+
+.trendPanel {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.trendItem {
+  padding: 1rem;
+  color: var(--text-secondary);
+  line-height: 1.8;
+}
+
+.cta {
+  padding: 1.35rem;
+  display: grid;
+  gap: 1rem;
+  align-items: center;
+}
+
+.ctaTitle {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.ctaCopy {
+  margin-top: 0.5rem;
+  color: var(--text-secondary);
+  line-height: 1.8;
+}
+
+@media (min-width: 768px) {
+  .page {
+    gap: 2rem;
+  }
+
+  .hero {
+    padding: 3rem;
+  }
+
+  .section,
+  .cta {
+    padding: 1.6rem;
+  }
+
+  .categoryGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .featuredGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .cta {
+    grid-template-columns: 1fr auto;
+  }
+}

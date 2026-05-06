@@ -1,0 +1,35 @@
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.32rem 0.7rem;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.cyan {
+  border-color: rgba(0, 245, 255, 0.32);
+  background: rgba(0, 245, 255, 0.12);
+  color: var(--accent-cyan);
+}
+
+.purple {
+  border-color: rgba(183, 0, 255, 0.32);
+  background: rgba(183, 0, 255, 0.14);
+  color: #dd9fff;
+}
+
+.pink {
+  border-color: rgba(255, 0, 110, 0.32);
+  background: rgba(255, 0, 110, 0.12);
+  color: #ff6aa7;
+}
+
+.slate {
+  border-color: rgba(136, 136, 170, 0.24);
+  background: rgba(136, 136, 170, 0.12);
+  color: var(--text-secondary);
+}
