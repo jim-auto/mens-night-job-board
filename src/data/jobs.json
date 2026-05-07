@@ -1204,5 +1204,1021 @@
     "description": "札幌・すすきのエリアのボーイ・黒服求人をまとめた求人ポータルへのリンクです。複数店舗の求人情報をまとめて確認・比較できます。北海道最大の歓楽街での夜職を検討している方はこちらから。",
     "applyUrl": "https://job-chocolat.jp/hokkaido/a_1101/shoplist/",
     "rumors": []
+  },
+  {
+    "featured": false,
+    "area": "福岡",
+    "hours": "18:00〜翌2:00（週3日〜OK）",
+    "tags": [
+      "未経験OK",
+      "週3〜OK",
+      "交通費支給",
+      "食事付き"
+    ],
+    "careerPath": [
+      {
+        "title": "ボーイ入門",
+        "year": 0,
+        "description": "中洲エリアの高級クラブでのサービス基礎習得"
+      },
+      {
+        "title": "ボーイ（経験者）",
+        "year": 1,
+        "description": "VIP対応スキル確立。昇進への道筋明確"
+      },
+      {
+        "title": "黒服昇進",
+        "year": 2,
+        "description": "福岡全店舗での管理職チャンス"
+      }
+    ],
+    "id": "noel-fukuoka-boy",
+    "description": "福岡中洲の高級クラブでのボーイ募集。上質な客層とのやり取りでマナーが身につく。",
+    "rumors": [
+      "都市型クラブのため客層がビジネスマンで穏やかという声があります",
+      "九州内での知名度が高く、同期のネットワークが作りやすいという意見が見られます",
+      "給与が業界平均より若干高めという声があります"
+    ],
+    "jobType": "ボーイ",
+    "applyUrl": "https://job-chocolat.jp/",
+    "salary": "時給2,000円〜2,500円+インセンティブ",
+    "name": "NOEL FUKUOKA（ボーイ）"
+  },
+  {
+    "featured": false,
+    "area": "福岡",
+    "hours": "17:00〜翌2:30（完全週休2日）",
+    "tags": [
+      "正社員",
+      "社会保険完備",
+      "昇給あり",
+      "独立支援あり",
+      "送りあり"
+    ],
+    "careerPath": [
+      {
+        "title": "黒服・マネージャー",
+        "year": 0,
+        "description": "店舗オペレーション・スタッフ管理開始"
+      },
+      {
+        "title": "エリアマネージャー",
+        "year": 2,
+        "description": "福岡複数店舗の統括"
+      },
+      {
+        "title": "グループ幹部",
+        "year": 5,
+        "description": "独立・新エリア展開の道"
+      }
+    ],
+    "id": "luxury-fukuoka-manager",
+    "description": "福岡大手グループの黒服・マネージャー募集。スタッフ管理・売上管理の実務を習得。",
+    "rumors": [
+      "福岡でのグループ規模が大きく、異動や昇進のチャンスが多いという声があります",
+      "経営視点での教育が充実しており、将来的に独立を視野に入れた人に向いているという意見が見られます",
+      "九州圏での知名度が高く、転職市場での評価が良いという声があります"
+    ],
+    "jobType": "黒服",
+    "applyUrl": "https://job-chocolat.jp/",
+    "salary": "月給35万円〜60万円+賞与年2回",
+    "name": "LUXURY FUKUOKA（マネージャー・正社員）"
+  },
+  {
+    "featured": false,
+    "area": "札幌",
+    "hours": "19:00〜翌3:00（週2日〜OK）",
+    "tags": [
+      "未経験OK",
+      "週2〜OK",
+      "交通費支給",
+      "寮あり",
+      "食事付き"
+    ],
+    "careerPath": [
+      {
+        "title": "ボーイ",
+        "year": 0,
+        "description": "北海道最高峰クラブでのサービス習得。レベル高い環境での成長"
+      },
+      {
+        "title": "シニアボーイ",
+        "year": 1,
+        "description": "新人教育・ホール統括"
+      },
+      {
+        "title": "黒服昇進",
+        "year": 2,
+        "description": "札幌全店舗での管理職、または東京・大阪への異動"
+      }
+    ],
+    "id": "sapporo-glamour-boy",
+    "description": "札幌すすきの一等地の高級クラブ。北海道を代表するナイトスポット。",
+    "rumors": [
+      "北海道内での最高峰クラブのため、客層が企業幹部・著名人がメインという声があります",
+      "研修体制が整っており、他地域への異動機会も多いという意見が見られます",
+      "将来的に東京・大阪への転勤を視野に入れた人に向いているという声があります"
+    ],
+    "jobType": "ボーイ",
+    "applyUrl": "https://job-chocolat.jp/",
+    "salary": "時給2,100円〜2,600円+インセンティブ",
+    "name": "GLAMOUR SAPPORO（ボーイ）"
+  },
+  {
+    "featured": false,
+    "area": "札幌",
+    "hours": "17:00〜翌3:00（完全週休2日）",
+    "tags": [
+      "正社員",
+      "社会保険完備",
+      "昇給あり",
+      "独立支援あり",
+      "送りあり"
+    ],
+    "careerPath": [
+      {
+        "title": "黒服・マネージャー",
+        "year": 0,
+        "description": "札幌主要店での店舗管理"
+      },
+      {
+        "title": "エリアマネージャー",
+        "year": 2,
+        "description": "北海道複数店舗統括"
+      },
+      {
+        "title": "ディレクター",
+        "year": 4,
+        "description": "東日本エリアの事業企画"
+      }
+    ],
+    "id": "sapporo-susukino-manager",
+    "description": "札幌を代表するクラブの管理職。ゼロから店舗構築の経験も。",
+    "rumors": [
+      "北海道での認知度が高く、転職・起業時に経歴が評価されるという声があります",
+      "グループが東日本に拡大中のため、昇進スピードが速いという意見が見られます",
+      "給与水準が北海道内では最高峰という声があります"
+    ],
+    "jobType": "黒服",
+    "applyUrl": "https://job-chocolat.jp/",
+    "salary": "月給38万円〜70万円+賞与年2回",
+    "name": "SUSUKINO CLUB（マネージャー・正社員）"
+  },
+  {
+    "featured": false,
+    "area": "東京",
+    "hours": "19:00〜翌2:00（週2日〜OK）",
+    "tags": [
+      "未経験OK",
+      "週2〜OK",
+      "交通費全支給",
+      "食事付き",
+      "送りあり"
+    ],
+    "careerPath": [
+      {
+        "title": "ボーイ",
+        "year": 0,
+        "description": "語学不問で開始。対外国人対応スキル習得"
+      },
+      {
+        "title": "言語スペシャリスト",
+        "year": 1,
+        "description": "語学手当支給。給与大幅UP"
+      },
+      {
+        "title": "シニアボーイ",
+        "year": 2,
+        "description": "新人教育・言語チーム統括"
+      }
+    ],
+    "id": "roppongi-nova-boy",
+    "description": "六本木エリアの外国人客多数のクラブ。語学スキルが活かせる。",
+    "rumors": [
+      "外国人客がメインのため、英語やその他言語ができると給与が大幅アップするという声があります",
+      "国際的な環境で異文化理解が深まるという意見が見られます",
+      "チップが多く実際の収入は時給より高いという声があります"
+    ],
+    "jobType": "ボーイ",
+    "applyUrl": "https://job-chocolat.jp/",
+    "salary": "時給2,200円〜3,000円（インセンティブ・チップ別途）",
+    "name": "NOVA ROPPONGI（ボーイ）"
+  },
+  {
+    "featured": false,
+    "area": "東京",
+    "hours": "23:00〜翌5:00（週1日〜OK）",
+    "tags": [
+      "週1〜OK",
+      "副業歓迎",
+      "短期OK",
+      "経験者優遇"
+    ],
+    "careerPath": [
+      {
+        "title": "ドライバー",
+        "year": 0,
+        "description": "短期・副業ベースで開始。シフト融通性が高い"
+      },
+      {
+        "title": "シニアドライバー",
+        "year": 1,
+        "description": "VIP送迎専門。月間賞与対象化"
+      },
+      {
+        "title": "ドライバーチーム統括",
+        "year": 2,
+        "description": "独立タクシー運転手への転換も視野"
+      }
+    ],
+    "id": "shinjuku-elegance-driver",
+    "description": "新宿歌舞伎町の送迎ドライバー。他の仕事との両立に最適。",
+    "rumors": [
+      "短期・週1日からOKのため、他の仕事との両立がしやすいという声があります",
+      "深夜専門のため、昼職がある人にとって最適という意見が見られます",
+      "稼働量で収入を調整できるため、自分のペースで続けられるという声があります"
+    ],
+    "jobType": "ドライバー",
+    "applyUrl": "https://job-chocolat.jp/",
+    "salary": "時給1,800円〜2,500円（稼働ベース）",
+    "name": "ELEGANCE SHINJUKU（ドライバー）"
+  },
+  {
+    "featured": false,
+    "area": "大阪",
+    "hours": "18:30〜翌2:30（週3日〜OK）",
+    "tags": [
+      "未経験OK",
+      "週3〜OK",
+      "交通費支給",
+      "食事付き",
+      "寮あり"
+    ],
+    "careerPath": [
+      {
+        "title": "ボーイ",
+        "year": 0,
+        "description": "北新地ハイクラス環境でのサービス習得"
+      },
+      {
+        "title": "シニアボーイ",
+        "year": 1,
+        "description": "VIP担当・新人教育責任"
+      },
+      {
+        "title": "黒服昇進",
+        "year": 2,
+        "description": "北新地全店舗での管理職機会"
+      }
+    ],
+    "id": "osaka-kita-club-boy",
+    "description": "大阪北新地の高級クラブ。関西圏随一の客単価。",
+    "rumors": [
+      "北新地の中でも客単価が高く、給与が業界トップクラスという声があります",
+      "大阪に長く勤続する人が多く、職場の雰囲気が安定しているという意見が見られます",
+      "インセンティブが充実しており、頑張りが給与に直結するという声があります"
+    ],
+    "jobType": "ボーイ",
+    "applyUrl": "https://job-chocolat.jp/",
+    "salary": "時給2,000円〜2,700円+インセンティブ",
+    "name": "CLUB KITA OSAKA（ボーイ）"
+  },
+  {
+    "featured": false,
+    "area": "名古屋",
+    "hours": "19:00〜翌2:00（週2日〜OK）",
+    "tags": [
+      "未経験OK",
+      "週2〜OK",
+      "交通費支給",
+      "寮あり",
+      "送りあり"
+    ],
+    "careerPath": [
+      {
+        "title": "ボーイ（オープニング）",
+        "year": 0,
+        "description": "新規開店立ち上げ。初期メンバーとしての特別ポジション"
+      },
+      {
+        "title": "ボーイ（シニア）",
+        "year": 1,
+        "description": "店舗成長に伴う人員拡大で昇進機会"
+      },
+      {
+        "title": "黒服昇進",
+        "year": 2,
+        "description": "新店舗開発への異動、または名古屋全店統括へ"
+      }
+    ],
+    "id": "nagoya-premium-boy",
+    "description": "名古屋栄エリアの新進気鋭クラブ。成長フェーズで昇進チャンス豊富。",
+    "rumors": [
+      "新規開店のため、オープニングスタッフからの昇進道が開けやすいという声があります",
+      "若いスタッフが多く、同期のネットワークが構築しやすいという意見が見られます",
+      "会社が成長中のため、社内昇進のチャンスが多いという声があります"
+    ],
+    "jobType": "ボーイ",
+    "applyUrl": "https://job-chocolat.jp/",
+    "salary": "時給2,100円〜2,900円（インセンティブ別途）",
+    "name": "PREMIUM NAGOYA（ボーイ）"
+  },
+  {
+    "featured": false,
+    "description": "新宿歌舞伎町の老舗ホストクラブ。業界実績 15年、研修体制が充実。",
+    "name": "TOP HOST SHINJUKU（ホスト・未経験向け）",
+    "tags": [
+      "未経験OK",
+      "週3〜OK",
+      "高収入",
+      "研修充実"
+    ],
+    "careerPath": [
+      {
+        "title": "ホスト",
+        "year": 0,
+        "description": "研修 3ヶ月で基本スキル習得。新宿でのスタート"
+      },
+      {
+        "title": "ホスト（中堅）",
+        "year": 1,
+        "description": "常連客獲得で売上 100万円超え目指す"
+      },
+      {
+        "title": "セッション管理職",
+        "year": 2,
+        "description": "後輩指導・売上管理職への転換"
+      }
+    ],
+    "area": "東京",
+    "hours": "20:00〜翌5:00（週3日〜OK）",
+    "rumors": [
+      "同じくらいの実績を持つホストが多く、競争より共存の雰囲気という声があります",
+      "研修が充実しており、1年で月給 100万円到達者も多いという意見が見られます",
+      "店舗の紳士的雰囲気で、精神的負担が比較的少ないという声があります"
+    ],
+    "applyUrl": "https://job-chocolat.jp/",
+    "jobType": "ホスト",
+    "id": "shinjuku-host-top-new",
+    "salary": "月給50万円〜（完全歩合）"
+  },
+  {
+    "featured": false,
+    "description": "歌舞伎町プレミアムホストクラブ。VIP顧客専門。独立支援制度あり。",
+    "name": "PRESTIGE KABUKICHO（ホスト・経験者向け）",
+    "tags": [
+      "経験者優遇",
+      "高収入",
+      "VIP客多数",
+      "独立支援あり"
+    ],
+    "careerPath": [
+      {
+        "title": "ホスト（経験者）",
+        "year": 0,
+        "description": "VIP客対応専門で高単価収入"
+      },
+      {
+        "title": "セッションチーフ",
+        "year": 1,
+        "description": "後輩指導・売上管理責任"
+      },
+      {
+        "title": "独立準備",
+        "year": 2,
+        "description": "独立支援制度活用。自店舗開業への道"
+      }
+    ],
+    "area": "東京",
+    "hours": "20:30〜翌5:30（週4日推奨）",
+    "rumors": [
+      "VIP客層がメインのため、営業ノルマが他店より緩いという声があります",
+      "ホスト経験 3年以上の人材が多く、技術を学べる環境という意見が見られます",
+      "独立支援制度が充実しており、独立を視野に入れた人が多いという声があります"
+    ],
+    "applyUrl": "https://job-chocolat.jp/",
+    "jobType": "ホスト",
+    "id": "kabukicho-host-club-prestige",
+    "salary": "月給150万円〜（完全歩合・インセンティブ込み）"
+  },
+  {
+    "featured": false,
+    "description": "スカウト業務を通じた営業スキル習得。キャスト開拓から関係構築まで。",
+    "name": "TOKYO SCOUT NETWORK（スカウト・営業）",
+    "tags": [
+      "営業経験歓迎",
+      "高収入",
+      "個人活動OK",
+      "独立向け"
+    ],
+    "careerPath": [
+      {
+        "title": "スカウト",
+        "year": 0,
+        "description": "キャスト開拓・契約業務開始。営業基礎習得"
+      },
+      {
+        "title": "スカウトリーダー",
+        "year": 1,
+        "description": "複数キャスト管理。月給 50万円超を目指す"
+      },
+      {
+        "title": "独立準備",
+        "year": 2,
+        "description": "スカウト業個人起業への準備段階"
+      }
+    ],
+    "area": "東京",
+    "hours": "20:00〜翌3:00（相談可能）",
+    "rumors": [
+      "営業センスがあれば月給 50-100万円は十分達成可能という声があります",
+      "独立してスカウト業を立ち上げるケースも多く、起業向けという意見が見られます",
+      "成果報酬型のため、努力が直結する環境という声があります"
+    ],
+    "applyUrl": "https://job-chocolat.jp/",
+    "jobType": "スカウト",
+    "id": "tokyo-scout-agent",
+    "salary": "時給2,500円+歩合（月給30万円〜100万円）"
+  },
+  {
+    "featured": false,
+    "description": "名古屋栄エリアのホストクラブ。アットホームな雰囲気が特徴。",
+    "name": "SAKAE HOST CLUB（ホスト）",
+    "tags": [
+      "未経験OK",
+      "高収入",
+      "研修充実",
+      "寮あり"
+    ],
+    "careerPath": [
+      {
+        "title": "ホスト",
+        "year": 0,
+        "description": "栄エリアでのホスト業基礎習得。アットホーム環境"
+      },
+      {
+        "title": "ホスト（中堅）",
+        "year": 1,
+        "description": "常連客開拓で売上安定化"
+      },
+      {
+        "title": "セッション管理職",
+        "year": 2,
+        "description": "他キャストの管理・指導責任"
+      }
+    ],
+    "area": "名古屋",
+    "hours": "20:00〜翌4:30（週3日〜OK）",
+    "rumors": [
+      "栄エリアの中でも客層がカジュアルで親しみやすいという声があります",
+      "新人育成に力を入れており、1年で月給 80万円到達者も多いという意見が見られます",
+      "スタッフ同士の関係が良好で、退職率が低いという声があります"
+    ],
+    "applyUrl": "https://job-chocolat.jp/",
+    "jobType": "ホスト",
+    "id": "nagoya-sakae-host-club",
+    "salary": "月給60万円〜（完全歩合）"
+  },
+  {
+    "featured": false,
+    "description": "北新地最高峰ホストクラブ。VIP客層で個単価が高い。",
+    "name": "KITA PRESTIGE（ホスト・経験者向け）",
+    "tags": [
+      "経験者優遇",
+      "超高収入",
+      "VIP客多数",
+      "独立支援"
+    ],
+    "careerPath": [
+      {
+        "title": "ホスト（経験者）",
+        "year": 0,
+        "description": "北新地最高峰でのキャリア積み"
+      },
+      {
+        "title": "セッションチーフ",
+        "year": 1,
+        "description": "複数セッション統括"
+      },
+      {
+        "title": "独立",
+        "year": 2,
+        "description": "自店舗開業実現"
+      }
+    ],
+    "area": "大阪",
+    "hours": "20:30〜翌6:00（週4日推奨）",
+    "rumors": [
+      "北新地全体の中でも最高峰の客層・売上を誇るという声があります",
+      "年収 1000万円超も一般的で、経験者が活躍するという意見が見られます",
+      "独立を控えた経営知識獲得の場として機能しているという声があります"
+    ],
+    "applyUrl": "https://job-chocolat.jp/",
+    "jobType": "ホスト",
+    "id": "osaka-kita-host-prestige",
+    "salary": "月給200万円〜（完全歩合・インセンティブ込み）"
+  },
+  {
+    "featured": false,
+    "description": "福岡中洲エリアのスカウト業務。人脈構築から営業展開まで。",
+    "name": "FUKUOKA SCOUT GROUP（スカウト）",
+    "tags": [
+      "営業経験歓迎",
+      "高収入",
+      "個人活動OK"
+    ],
+    "careerPath": [
+      {
+        "title": "スカウト",
+        "year": 0,
+        "description": "福岡中洲エリアでのキャスト開拓開始"
+      },
+      {
+        "title": "スカウトリーダー",
+        "year": 1,
+        "description": "複数キャスト管理による売上増加"
+      },
+      {
+        "title": "独立向け準備",
+        "year": 2,
+        "description": "福岡でのスカウト業個人起業検討"
+      }
+    ],
+    "area": "福岡",
+    "hours": "21:00〜翌2:00（週3日〜OK）",
+    "rumors": [
+      "福岡での営業経験が活きやすく、地元での人脈を活用できるという声があります",
+      "個人営業スタイルのため、自分のペースで仕事できるという意見が見られます",
+      "中洲エリアの成長が続いており、スカウト需要が高いという声があります"
+    ],
+    "applyUrl": "https://job-chocolat.jp/",
+    "jobType": "スカウト",
+    "id": "fukuoka-scout-recruitment",
+    "salary": "時給2,000円+歩合（月給25万円〜80万円）"
+  },
+  {
+    "featured": false,
+    "description": "札幌すすきのエリアの送迎専門。深夜帯の安定案件。",
+    "name": "SAPPORO DRIVER NETWORK（ドライバー）",
+    "tags": [
+      "週1〜OK",
+      "副業歓迎",
+      "短期OK",
+      "経験者優遇"
+    ],
+    "careerPath": [
+      {
+        "title": "ドライバー",
+        "year": 0,
+        "description": "札幌すすきの送迎業務開始。安定稼働"
+      },
+      {
+        "title": "シニアドライバー",
+        "year": 1,
+        "description": "VIP送迎専門で単価UP"
+      },
+      {
+        "title": "チーム統括",
+        "year": 2,
+        "description": "複数ドライバー管理か独立へ"
+      }
+    ],
+    "area": "札幌",
+    "hours": "22:00〜翌5:00（週1日〜OK）",
+    "rumors": [
+      "札幌での営業許可を保有しており、安定した案件が続くという声があります",
+      "短期・週1日からOKのため、学生や副業層に人気という意見が見られます",
+      "冬季道路状況が厳しいため、運転技術を磨けるという声があります"
+    ],
+    "applyUrl": "https://job-chocolat.jp/",
+    "jobType": "ドライバー",
+    "id": "sapporo-driver-network",
+    "salary": "時給1,900円〜2,600円（稼働ベース）"
+  },
+  {
+    "featured": false,
+    "description": "渋谷センター街のプレミアムラウンジ。若い客層・アットホーム。",
+    "name": "SHIBUYA PRIME（ボーイ）",
+    "tags": [
+      "未経験OK",
+      "週2〜OK",
+      "交通費全支給",
+      "食事付き"
+    ],
+    "careerPath": [
+      {
+        "title": "ボーイ",
+        "year": 0,
+        "description": "渋谷エリアでのサービス基礎習得"
+      },
+      {
+        "title": "シニアボーイ",
+        "year": 1,
+        "description": "VIP対応スキル確立・新人教育"
+      },
+      {
+        "title": "黒服昇進",
+        "year": 2,
+        "description": "渋谷または他エリアでの管理職"
+      }
+    ],
+    "area": "東京",
+    "hours": "19:00〜翌3:00（週2日〜OK）",
+    "rumors": [
+      "渋谷の若い客層がメインで、落ち着いた雰囲気という声があります",
+      "チップが多くて実際の収入が時給より高いという意見が見られます",
+      "スタッフが若く同期のネットワークが作りやすいという声があります"
+    ],
+    "applyUrl": "https://job-chocolat.jp/",
+    "jobType": "ボーイ",
+    "id": "tokyo-shibuya-boy-new",
+    "salary": "時給2,300円〜3,200円+チップ"
+  },
+  {
+    "featured": false,
+    "rumors": [
+      "赤坂のビジネス街のため顧客層が穏やかという声があります",
+      "給与が安定的で、インセンティブも確実に支給されるという意見が見られます",
+      "ラウンジのため営業ノルマが少なく、精神的負担が軽いという声があります"
+    ],
+    "salary": "時給2,200円〜2,800円+インセンティブ",
+    "careerPath": [
+      {
+        "description": "赤坂ラウンジでのサービス習得",
+        "year": 0,
+        "title": "ボーイ"
+      },
+      {
+        "description": "顧客対応スキル向上・昇進準備",
+        "year": 1,
+        "title": "シニアボーイ"
+      },
+      {
+        "description": "赤坂エリアでの管理職転換",
+        "year": 2,
+        "title": "黒服昇進"
+      }
+    ],
+    "area": "東京",
+    "jobType": "ボーイ",
+    "description": "赤坂サカス近くのラウンジ。ビジネスパーソン向け。",
+    "id": "akasaka-lounge-boy",
+    "name": "AKASAKA LOUNGE（ボーイ）",
+    "hours": "18:00〜翌2:00（週2日〜OK）",
+    "tags": [
+      "未経験OK",
+      "週2〜OK",
+      "交通費支給",
+      "スーツ貸与"
+    ],
+    "applyUrl": "https://job-chocolat.jp/"
+  },
+  {
+    "featured": false,
+    "rumors": [
+      "港区の立地ブランドが強く、転職市場での評価が高いという声があります",
+      "複数店舗管理のため、経営スキルが身につくという意見が見られます",
+      "給与水準がラウンジとしては業界最高峰という声があります"
+    ],
+    "salary": "月給40万円〜75万円+賞与年2回",
+    "careerPath": [
+      {
+        "description": "港区ラウンジでの店舗管理開始",
+        "year": 0,
+        "title": "黒服・マネージャー"
+      },
+      {
+        "description": "複数ラウンジ統括・経営視点での業務",
+        "year": 2,
+        "title": "エリアマネージャー"
+      },
+      {
+        "description": "事業拡大・独立準備",
+        "year": 5,
+        "title": "グループ幹部"
+      }
+    ],
+    "area": "東京",
+    "jobType": "黒服",
+    "description": "港区エリアのラウンジ複数店舗管理。上質な環境。",
+    "id": "minato-luxury-lounge-manager",
+    "name": "MINATO LUXURY（マネージャー）",
+    "hours": "17:00〜翌1:00（完全週休2日）",
+    "tags": [
+      "正社員",
+      "社会保険完備",
+      "昇給あり",
+      "送りあり"
+    ],
+    "applyUrl": "https://job-chocolat.jp/"
+  },
+  {
+    "featured": false,
+    "rumors": [
+      "外国人客がメインのため、言葉が通じなくてもサービスできる環境という声があります",
+      "チップをもらえることが多く、実際の収入が時給より高いという意見が見られます",
+      "大阪の中でも客層が多様で、経験を積みやすいという声があります"
+    ],
+    "salary": "時給2,000円〜2,600円+インセンティブ",
+    "careerPath": [
+      {
+        "description": "道頓堀エリアでの多様な客対応スキル習得",
+        "year": 0,
+        "title": "ボーイ"
+      },
+      {
+        "description": "外国人対応スペシャリスト化",
+        "year": 1,
+        "title": "シニアボーイ"
+      },
+      {
+        "description": "大阪全店舗での管理職転換",
+        "year": 2,
+        "title": "黒服昇進"
+      }
+    ],
+    "area": "大阪",
+    "jobType": "ボーイ",
+    "description": "道頓堀の観光地クラブ。外国人客も多数。",
+    "id": "osaka-dotonbori-boy",
+    "name": "DOTONBORI CLUB（ボーイ）",
+    "hours": "19:00〜翌3:00（週3日〜OK）",
+    "tags": [
+      "未経験OK",
+      "週3〜OK",
+      "交通費支給",
+      "食事付き"
+    ],
+    "applyUrl": "https://job-chocolat.jp/"
+  },
+  {
+    "featured": false,
+    "rumors": [
+      "中規模店のためアットホームで続きやすいという声があります",
+      "大型店ほどではないが、月給 100万円越え者も多いという意見が見られます",
+      "新人教育が丁寧で、同期の絆が強いという声があります"
+    ],
+    "salary": "月給80万円〜（完全歩合）",
+    "careerPath": [
+      {
+        "description": "北新地中規模店での基礎習得",
+        "year": 0,
+        "title": "ホスト"
+      },
+      {
+        "description": "営団確定で売上安定化",
+        "year": 1,
+        "title": "ホスト（チーム）"
+      },
+      {
+        "description": "後輩指導・売上管理責任",
+        "year": 2,
+        "title": "セッション管理職"
+      }
+    ],
+    "area": "大阪",
+    "jobType": "ホスト",
+    "description": "北新地ホストクラブ中規模店。バランス型で続けやすい。",
+    "id": "osaka-host-middle-tier",
+    "name": "MIDDLE TIER HOST OSAKA（ホスト）",
+    "hours": "20:00〜翌5:00（週3日〜OK）",
+    "tags": [
+      "未経験OK",
+      "高収入",
+      "研修充実",
+      "寮あり"
+    ],
+    "applyUrl": "https://job-chocolat.jp/"
+  },
+  {
+    "featured": false,
+    "rumors": [
+      "栄エリア集中のため、一晩に複数往復できて稼ぎやすいという声があります",
+      "短期・週1日からOKのため、学生や副業に最適という意見が見られます",
+      "名古屋のため雪が少なく、年間通して安定した仕事という声があります"
+    ],
+    "salary": "時給1,700円〜2,300円（稼働ベース）",
+    "careerPath": [
+      {
+        "description": "栄エリア送迎業務開始。短期から対応可",
+        "year": 0,
+        "title": "ドライバー"
+      },
+      {
+        "description": "リピート客確保で単価UP",
+        "year": 1,
+        "title": "シニアドライバー"
+      },
+      {
+        "description": "複数ドライバー統括または独立へ",
+        "year": 2,
+        "title": "チーム管理"
+      }
+    ],
+    "area": "名古屋",
+    "jobType": "ドライバー",
+    "description": "名古屋栄ラウンジの送迎ドライバー。安定案件。",
+    "id": "nagoya-sakae-lounge-driver",
+    "name": "SAKAE LOUNGE DRIVER（ドライバー）",
+    "hours": "23:00〜翌5:00（週1日〜OK）",
+    "tags": [
+      "週1〜OK",
+      "副業歓迎",
+      "短期OK"
+    ],
+    "applyUrl": "https://job-chocolat.jp/"
+  },
+  {
+    "featured": false,
+    "rumors": [
+      "栄エリアの成長に伴い、キャスト需要が高まっているという声があります",
+      "個人営業のため、自分の人脈を活かしやすいという意見が見られます",
+      "成功すれば月給 50万円越えも不可能ではないという声があります"
+    ],
+    "salary": "時給2,200円+歩合（月給28万円〜70万円）",
+    "careerPath": [
+      {
+        "description": "栄エリアでのキャスト開拓開始",
+        "year": 0,
+        "title": "スカウト"
+      },
+      {
+        "description": "複数キャスト管理で月給UP",
+        "year": 1,
+        "title": "スカウトリーダー"
+      },
+      {
+        "description": "個人スカウト業開業検討",
+        "year": 2,
+        "title": "独立向け準備"
+      }
+    ],
+    "area": "名古屋",
+    "jobType": "スカウト",
+    "description": "名古屋栄エリアのキャスト開拓。人脈ベースで活動。",
+    "id": "nagoya-sakae-scout-new",
+    "name": "SAKAE SCOUT AGENT（スカウト）",
+    "hours": "20:00〜翌2:00（週3日〜OK）",
+    "tags": [
+      "営業経験歓迎",
+      "高収入",
+      "個人活動OK"
+    ],
+    "applyUrl": "https://job-chocolat.jp/"
+  },
+  {
+    "featured": false,
+    "rumors": [
+      "福岡での名店で、九州圏での知名度が高いという声があります",
+      "月給 100万円到達者も多く、稼げるホストクラブという意見が見られます",
+      "新人教育が丁寧で、離職率が低いという声があります"
+    ],
+    "salary": "月給70万円〜（完全歩合）",
+    "careerPath": [
+      {
+        "description": "九州での知名店でのキャリア開始",
+        "year": 0,
+        "title": "ホスト"
+      },
+      {
+        "description": "常連客獲得で売上安定化",
+        "year": 1,
+        "title": "ホスト（中堅）"
+      },
+      {
+        "description": "九州内での管理職転換",
+        "year": 2,
+        "title": "セッション管理職"
+      }
+    ],
+    "area": "福岡",
+    "jobType": "ホスト",
+    "description": "福岡中洲のホストクラブ。九州での知名度が高い。",
+    "id": "fukuoka-kyushu-host-club",
+    "name": "KYUSHU HOST CLUB（ホスト）",
+    "hours": "20:00〜翌4:30（週3日〜OK）",
+    "tags": [
+      "未経験OK",
+      "高収入",
+      "研修充実",
+      "寮あり"
+    ],
+    "applyUrl": "https://job-chocolat.jp/"
+  },
+  {
+    "featured": false,
+    "rumors": [
+      "福岡での管理職経験が、全国で評価されるという声があります",
+      "九州圏での店舗展開が進んでおり、昇進のチャンスが多いという意見が見られます",
+      "給与水準が福岡としては最高峰という声があります"
+    ],
+    "salary": "月給36万円〜65万円+賞与年2回",
+    "careerPath": [
+      {
+        "description": "中洲店舗での店舗管理開始",
+        "year": 0,
+        "title": "黒服・マネージャー"
+      },
+      {
+        "description": "福岡複数店舗統括",
+        "year": 2,
+        "title": "エリアマネージャー"
+      },
+      {
+        "description": "九州全体の事業企画・独立検討",
+        "year": 4,
+        "title": "グループ幹部"
+      }
+    ],
+    "area": "福岡",
+    "jobType": "黒服",
+    "description": "福岡中洲のクラブ管理職。九州での経営経験を積める。",
+    "id": "fukuoka-lounge-manager-new",
+    "name": "FUKUOKA CLUB MANAGER（マネージャー）",
+    "hours": "17:30〜翌2:30（完全週休2日）",
+    "tags": [
+      "正社員",
+      "社会保険完備",
+      "昇給あり",
+      "送りあり"
+    ],
+    "applyUrl": "https://job-chocolat.jp/"
+  },
+  {
+    "featured": false,
+    "rumors": [
+      "すすきの随一の高級店のため客単価が高いという声があります",
+      "研修が充実しており、初年度で月給 100万円超の例も多いという意見が見られます",
+      "東京・大阪への転勤機会もあり、全国でキャリア構築できるという声があります"
+    ],
+    "salary": "月給85万円〜（完全歩合）",
+    "careerPath": [
+      {
+        "description": "北海道トップの高級店でのキャリア開始",
+        "year": 0,
+        "title": "ホスト"
+      },
+      {
+        "description": "売上安定・新人教育責任",
+        "year": 1,
+        "title": "ホスト（チーフ）"
+      },
+      {
+        "description": "北海道内管理職または東日本転勤",
+        "year": 2,
+        "title": "セッション管理職"
+      }
+    ],
+    "area": "札幌",
+    "jobType": "ホスト",
+    "description": "札幌すすきのの高級ホストクラブ。北海道トップの設定料。",
+    "id": "sapporo-susukino-host-new",
+    "name": "SUSUKINO PREMIUM HOST（ホスト）",
+    "hours": "20:00〜翌5:00（週3日〜OK）",
+    "tags": [
+      "未経験OK",
+      "高収入",
+      "研修充実",
+      "寮あり"
+    ],
+    "applyUrl": "https://job-chocolat.jp/"
+  },
+  {
+    "featured": false,
+    "rumors": [
+      "北海道での人脈が活きやすく、地元ネットワークを活用できるという声があります",
+      "個人営業のため、自分のペースで稼げるという意見が見られます",
+      "札幌・北海道の成長に伴い、スカウト需要が上昇中という声があります"
+    ],
+    "salary": "時給2,100円+歩合（月給26万円〜60万円）",
+    "careerPath": [
+      {
+        "description": "すすきのエリアでのキャスト開拓開始",
+        "year": 0,
+        "title": "スカウト"
+      },
+      {
+        "description": "複数キャスト管理で売上増加",
+        "year": 1,
+        "title": "スカウトリーダー"
+      },
+      {
+        "description": "北海道スカウト業個人起業検討",
+        "year": 2,
+        "title": "独立準備"
+      }
+    ],
+    "area": "札幌",
+    "jobType": "スカウト",
+    "description": "札幌すすきのエリアのスカウト業。北海道人脈活用。",
+    "id": "sapporo-scout-hokkaido",
+    "name": "HOKKAIDO SCOUT NETWORK（スカウト）",
+    "hours": "21:00〜翌2:00（週2日〜OK）",
+    "tags": [
+      "営業経験歓迎",
+      "高収入",
+      "個人活動OK"
+    ],
+    "applyUrl": "https://job-chocolat.jp/"
   }
 ]
