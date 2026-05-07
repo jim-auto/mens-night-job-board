@@ -1,0 +1,199 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #0a0e27;
+  color: #e0e0e0;
+}
+
+.main {
+  flex: 1;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  background: linear-gradient(135deg, #00d4ff, #00a8e8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.intro {
+  font-size: 1.1rem;
+  color: #a0a0a0;
+  margin-bottom: 2rem;
+}
+
+.section {
+  margin-bottom: 3rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  color: #00d4ff;
+  border-bottom: 2px solid rgba(0, 212, 255, 0.3);
+  padding-bottom: 0.5rem;
+}
+
+.tableWrapper {
+  overflow-x: auto;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 212, 255, 0.2);
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.table thead {
+  background: linear-gradient(180deg, rgba(0, 212, 255, 0.1), rgba(0, 168, 232, 0.05));
+  border-bottom: 2px solid rgba(0, 212, 255, 0.3);
+}
+
+.table th {
+  padding: 1rem;
+  text-align: left;
+  color: #00d4ff;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.table td {
+  padding: 1rem;
+  border-bottom: 1px solid rgba(0, 212, 255, 0.1);
+  color: #d0d0d0;
+}
+
+.table tbody tr:hover {
+  background-color: rgba(0, 212, 255, 0.08);
+}
+
+.areaName,
+.jobType {
+  font-weight: 500;
+  color: #00d4ff;
+}
+
+.count {
+  text-align: center;
+  color: #a0a0a0;
+}
+
+.cell {
+  background: rgba(0, 212, 255, 0.03);
+}
+
+.salaryRange {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.avg {
+  font-weight: 600;
+  color: #00ff88;
+  font-size: 1.1rem;
+}
+
+.range {
+  font-size: 0.85rem;
+  color: #a0a0a0;
+}
+
+.jobCount {
+  font-size: 0.75rem;
+  color: #707070;
+}
+
+.noData {
+  color: #606060;
+  font-style: italic;
+}
+
+.notes {
+  background: rgba(0, 212, 255, 0.05);
+  border: 1px solid rgba(0, 212, 255, 0.2);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-top: 2rem;
+}
+
+.notes h3 {
+  color: #00d4ff;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.notes ul {
+  margin: 0;
+  padding-left: 1.5rem;
+  list-style: none;
+}
+
+.notes li {
+  margin-bottom: 0.5rem;
+  color: #c0c0c0;
+  line-height: 1.6;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.notes li:before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: #00d4ff;
+}
+
+/* レスポンシブ */
+@media (max-width: 768px) {
+  .main {
+    padding: 1.5rem 1rem;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  .table {
+    font-size: 0.85rem;
+  }
+
+  .table th,
+  .table td {
+    padding: 0.75rem 0.5rem;
+  }
+
+  .intro {
+    font-size: 1rem;
+  }
+
+  .salaryRange {
+    gap: 0.1rem;
+  }
+
+  .avg {
+    font-size: 0.95rem;
+  }
+
+  .range {
+    font-size: 0.75rem;
+  }
+
+  .jobCount {
+    font-size: 0.65rem;
+  }
+}

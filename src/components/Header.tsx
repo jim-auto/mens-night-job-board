@@ -5,6 +5,7 @@ import styles from './Header.module.css'
 const navigation = [
   { label: 'トップ', to: '/' },
   { label: '求人一覧', to: '/jobs' },
+  { label: '給与比較', to: '/compare' },
 ]
 
 function Header() {
