@@ -66,6 +66,23 @@ function JobDetailPage() {
           <p>{job.description}</p>
         </section>
 
+        {job.careerPath && job.careerPath.length > 0 && (
+          <section className={styles.section}>
+            <h2>キャリアパス</h2>
+            <div className={styles.careerPath}>
+              {job.careerPath.map((step, idx) => (
+                <div key={idx} className={styles.careerStep}>
+                  <div className={styles.stepYear}>Year {step.year}</div>
+                  <div className={styles.stepContent}>
+                    <h3>{step.title}</h3>
+                    <p>{step.description}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
+
         <a
           className={styles.applyButton}
           href={job.applyUrl}

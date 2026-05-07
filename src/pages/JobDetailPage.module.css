@@ -92,6 +92,43 @@
   line-height: 1.9;
 }
 
+.careerPath {
+  display: grid;
+  gap: 1rem;
+  padding: 1rem;
+  border: 1px solid rgba(0, 212, 255, 0.2);
+  border-radius: 8px;
+  background: rgba(0, 212, 255, 0.05);
+}
+
+.careerStep {
+  display: grid;
+  gap: 0.5rem;
+  padding: 1rem;
+  border: 1px solid rgba(0, 212, 255, 0.15);
+  border-radius: 6px;
+  background: rgba(0, 212, 255, 0.03);
+}
+
+.stepYear {
+  color: #00ff88;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.stepContent h3 {
+  color: #00d4ff;
+  margin: 0.5rem 0 0.25rem 0;
+  font-size: 1rem;
+}
+
+.stepContent p {
+  color: #b0b0b0;
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
 .applyButton {
   display: inline-flex;
   justify-content: center;

@@ -1,6 +1,12 @@
 export type JobType = 'ボーイ' | '黒服' | 'ホスト' | 'ドライバー' | 'スカウト' | 'その他'
 export type Area = '東京' | '大阪' | '名古屋' | '福岡' | '札幌' | 'その他'
 
+export interface CareerPathStep {
+  year: number
+  title: string
+  description: string
+}
+
 export interface Job {
   id: string
   name: string
@@ -12,5 +18,6 @@ export interface Job {
   description: string
   applyUrl: string
   rumors: string[]
+  careerPath?: CareerPathStep[]
   featured?: boolean
 }
