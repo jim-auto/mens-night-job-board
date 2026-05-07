@@ -6,6 +6,7 @@ const navigation = [
   { label: 'トップ', to: '/' },
   { label: '求人一覧', to: '/jobs' },
   { label: '給与比較', to: '/compare' },
+  { label: 'ガイド', to: '/guide' },
 ]
 
 function Header() {

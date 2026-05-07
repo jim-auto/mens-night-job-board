@@ -3,6 +3,7 @@ import Footer from './components/Footer'
 import Header from './components/Header'
 import './App.css'
 import ComparePage from './pages/ComparePage'
+import GuidePage from './pages/GuidePage'
 import JobDetailPage from './pages/JobDetailPage'
 import JobListPage from './pages/JobListPage'
 import TopPage from './pages/TopPage'
@@ -18,6 +19,7 @@ function App() {
             <Route path="/jobs" element={<JobListPage />} />
             <Route path="/jobs/:id" element={<JobDetailPage />} />
             <Route path="/compare" element={<ComparePage />} />
+            <Route path="/guide" element={<GuidePage />} />
           </Routes>
         </main>
         <Footer />
